@@ -6,3 +6,9 @@ Second Post
 ===========
 
 World, hello again!
+
+Example heading 1
+-----------------
+
+Example heading 2
+-----------------
